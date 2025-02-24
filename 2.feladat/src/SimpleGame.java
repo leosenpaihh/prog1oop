@@ -28,6 +28,7 @@ public class SimpleGame {
      */
     public String convertTime(int seconds){
         // TODO: ide jön a megvalósításod
+
         if(seconds == 0){
             return "0:0:0";
         }
